@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "222222222222222222222222222222222",
+      "price": 64,
+      "status": true
+    },
+    {
+      "name": "Non nobis consequatu",
+      "price": 89,
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "Est est maxime volu",
+      "price": 20,
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "Saepe aliquam et eni",
+      "price": 57,
+      "status": true,
+      "id": 7
+    }
+  ]
+}

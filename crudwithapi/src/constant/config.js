@@ -1,0 +1,1 @@
+export const URL_CONFIG = "http://localhost:3000/products"
